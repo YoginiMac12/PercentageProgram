@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Yogini1\PercentageProgram\PercentageProgram\obj\Debug\PercentageProgram.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yogini1\PercentageProgram\PercentageProgram\obj\Debug\PercentageProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Yogini1\PercentageProgram\PercentageProgram\obj\Debug\PercentageProgram.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yogini1\PercentageProgram\PercentageProgram\bin\Debug\PercentageProgram.exe.config
+C:\Users\HP\source\repos\Yogini1\PercentageProgram\PercentageProgram\bin\Debug\PercentageProgram.exe
+C:\Users\HP\source\repos\Yogini1\PercentageProgram\PercentageProgram\bin\Debug\PercentageProgram.pdb
+C:\Users\HP\source\repos\Yogini1\PercentageProgram\PercentageProgram\obj\Debug\PercentageProgram.exe
+C:\Users\HP\source\repos\Yogini1\PercentageProgram\PercentageProgram\obj\Debug\PercentageProgram.pdb
